@@ -1,4 +1,4 @@
-// this model includes 1 client, 1 primary node and 6 backup nodes
+// this model includes 1 client, 1 primary node and 3 backup nodes
 
 ctmc
 
